@@ -27,8 +27,9 @@ export const CSS_LANGUAGES: string[] = [
   'less',
   'postcss',
   'sass',
-  'scss',
+  'scss', 
   'stylus',
+  'sugarss',
   'vue'
 ]
 export const JS_LANGUAGES: string[] = [
